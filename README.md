@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theXunnY
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning Full Stack Java 
-- 📫 How to reach me ...
+- 👀 Looking for a job👀
 
 
 # 💻 Tech Stack:
