@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @theXunnY
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Full Stack Java 
+- 👋 Hi, I’m Sunny aka @XunnY
+- 👀 I’m interested in Tech n InfoSec
+- 🌱 Full Stack Java Developer 
 - 👀 Looking for a job👀
 
 
